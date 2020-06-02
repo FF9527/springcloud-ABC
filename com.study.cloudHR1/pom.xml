@@ -24,6 +24,9 @@
     <module>cloud-provider-payment8004-hystrix</module>
       <module>cloud-consumer-hystrix-dashboard9001</module>
       <module>cloud-gateway-gateway9527</module>
+      <module>cloud-config-server6001</module>
+      <module>cloud-config-client5001</module>
+      <module>cloud-config-client5002</module>
   </modules>
 
   <!-- Jar包版本设置 -->
